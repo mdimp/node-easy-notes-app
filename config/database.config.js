@@ -1,3 +1,3 @@
 module.exports = {
-    url: 'mongodb://localhost:27017/easy-notes'
+    url: 'mongodb://test:test123@ds145574.mlab.com:45574/dimpy'
 }
